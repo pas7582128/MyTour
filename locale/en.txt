@@ -1,0 +1,38 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = MyTour
+
+## Skin
+
+### Multiline Text
+HTMLText_E4147C08_FC37_0184_41BC_6687392F35C5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>Image B</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;">I am Image B</SPAN></SPAN></DIV></div>
+HTMLText_E46166C2_FC35_0E85_41C4_31A411FD185C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>Textbox</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;">I am textbox</SPAN><SPAN STYLE="color:#333333;"> </SPAN></SPAN></DIV></div>
+HTMLText_E48B3D8B_FCCB_0284_41EC_4F25EBA927FE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>Image D</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;">I am Image D</SPAN></SPAN></DIV></div>
+HTMLText_E4D57D61_FC35_0384_41DA_3E21047AA50F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>Image C</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;">I am Image C</SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_EC8775C5_FC7D_028C_41B4_D46CCA5057BC.label = Photo Album 1
+album_EC8775C5_FC7D_028C_41B4_D46CCA5057BC_0.label = 1
+album_EC8775C5_FC7D_028C_41B4_D46CCA5057BC_1.label = 2
+album_EC8775C5_FC7D_028C_41B4_D46CCA5057BC_2.label = 3
+panorama_F5957B95_FC35_068F_41CC_9FD3B5468F98.label = b
+panorama_F59A7EDD_FC3B_1EBC_41EB_87DC4B933D80.label = c
+panorama_F59AA424_FC3B_018D_41C5_800DE404D78B.label = d
+panorama_F5C248B6_FC35_028D_41DB_B6190F1ABB67.label = a
+video_ED6F6825_FC75_018F_41E0_5AD4D0F91C86.label = video1
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_E47FF51E_FCDF_03BD_41E6_CB7B29A77C19.toolTip = Goto C
+HotspotPanoramaOverlayArea_EC7AC2C2_FC7B_0684_41CE_B116FF53DC33.toolTip = Image album
+HotspotPanoramaOverlayArea_ED49BBE6_FC55_068C_41C5_1F14FAB2F823.toolTip = Go back to A
+HotspotPanoramaOverlayArea_F0D69DC0_FC35_0284_41A4_1F435FC1717E.toolTip = Goto B
+HotspotPanoramaOverlayArea_F2054F89_FC4B_7E87_41C9_07D49DC2CD6E.toolTip = Goto D
+HotspotPanoramaOverlayArea_F3CD4BE2_FC5B_0684_41D4_3AFCA87FCF94.toolTip = Go back to A
+HotspotPanoramaOverlayArea_F3E31ADF_FC55_06BB_41E4_18AF15731B1D.toolTip = Go back to A
